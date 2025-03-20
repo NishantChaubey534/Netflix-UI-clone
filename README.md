@@ -14,14 +14,13 @@ This project is a Netflix India homepage clone built using **HTML**, **CSS**, an
 ## Technologies Used
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling and layout.
-- **JavaScript**: For interactive FAQ section.
 - **Google Fonts**: Used for typography.
 
 ## File Structure
 ```
 /netflix-clone/
 │── index.html         # Main HTML file
-│── netflix/
+│── netfix/
     │── style.css      # Stylesheet for layout and design
     ├── logos/         # Netflix logo
     ├── images/        # Background, TV, mobile images
@@ -41,7 +40,7 @@ This project is a Netflix India homepage clone built using **HTML**, **CSS**, an
 - **Advanced animations** for smoother UI interactions.
 
 ## Screenshot
-![Netflix Clone Screenshot](assets/images/screenshot.png)
+![Netflix Clone Screenshot](netfix/screen1.png)
 
 ## Credits
 - **Netflix (Reference Design)**: This project is inspired by Netflix's official website.
