@@ -39,8 +39,20 @@ This project is a Netflix India homepage clone built using **HTML**, **CSS**, an
 - **Improved responsiveness** for better mobile experience.
 - **Advanced animations** for smoother UI interactions.
 
-## Screenshot
-![Netflix Clone Screenshot](netfix/screen1.png)
+## Screenshots
+Here are some previews of the project:
+
+### Home Page
+![Netflix Clone Home](netfix/screen3.png)
+
+### More Section
+![Netflix Clone More Sections](netfix/screen4.png)
+![Netflix Clone More Sections](netfix/screen5.png)
+![Netflix Clone More Sections](netfix/screen6.png)
+
+### Responsive Mobile View
+![Netflix Clone Mobile](netfix/screen1.jpg)
+![Netflix Clone Mobile](netfix/screen2.jpg)
 
 ## Credits
 - **Netflix (Reference Design)**: This project is inspired by Netflix's official website.
